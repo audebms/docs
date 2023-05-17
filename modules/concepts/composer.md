@@ -44,7 +44,7 @@ Create the file `<module name>/composer.json` and paste:
         }
     ],
     "require": {
-        "php": ">=5.6.0"
+        "php": ">=7.2.0"
     },
     "autoload": {
         "psr-4": {
