@@ -126,6 +126,7 @@ It contains the following subdirectories:
 - `/c`: Category pictures
 - `/cms`: CMS pictures
 - `/co`: Attributes (colors) pictures
+- `/e`: Employees avatars {{< minver v="1.7.8" >}}
 - `/flags`: Country & language flags {{< minver v="1.7.7" >}}
 - `/genders`: Gender (_Shop Parameters > Customers > Client titles_) pictures
 - `/jquery-ui`: jQuery UI images
@@ -133,6 +134,7 @@ It contains the following subdirectories:
 - `/m`: Manufacturer pictures
 - `/os`: Order state pictures
 - `/p`: Product pictures
+- `/pr`: Profiles avatars {{< minver v="1.7.8" >}}
 - `/s`: Carrier pictures
 - `/scenes`: Category scene pictures (removed since 1.6)
 - `/st`: Stores (_Shop Parameters > Contact > Stores_) pictures
